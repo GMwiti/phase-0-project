@@ -1,0 +1,33 @@
+
+.flexbox{
+    text-align: center;
+    color: lavenderblush;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    font-size:0.7cm;
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    flex-direction: column;
+
+    
+
+
+}
+span{
+    color: lavenderblush;
+    text-shadow:0 0 5px blanchedalmond,
+    0 0 10px beige,
+    0 0 20px bisque,
+    0 0;
+
+}
+.info2{
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid white;
+    color:aqua
+}
